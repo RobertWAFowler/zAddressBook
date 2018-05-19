@@ -1,2 +1,2 @@
 # zAddressBook
-A address book application for learning programming principals
+An address book application for programming educational purposes. 
